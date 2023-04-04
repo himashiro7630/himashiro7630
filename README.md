@@ -1,4 +1,4 @@
-<h1>🌎 HelloWorld</h1>
+<h1>🌍 HELLO WORLD</h1>
 
 <a href="discordapp.com/users/1028198473817935892">
     <img src="https://img.shields.io/badge/Himashiro%237777-%23555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865f2">
@@ -14,14 +14,12 @@
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
-
 <img src="code.gif" width="400px" align="right">
-
 <pre><code>🗾 Japan/Shizuoka
-
+<br>
 🧑‍🎓 10th grader
-
-🛠️ VScode
-</code></pre>
-
-<img src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" width="390px">
+<br>
+🛠️ VScode</code></pre>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
