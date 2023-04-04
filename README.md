@@ -1,4 +1,4 @@
-<h1>🌍 HELLO WORLD</h1>
+<h1>🌍 HELLO WORLD.</h1>
 
 <a href="discordapp.com/users/1028198473817935892">
     <img src="https://img.shields.io/badge/Himashiro%237777-%23555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865f2">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
-<img src="code.gif" width="400px" align="right">
+<img src="1AD23A2F-F8E0-41DC-B42A-3012B89D31FB.gif" width="400px" align="right">
 <pre><code>🗾 Japan/Shizuoka
 <br>
 🧑‍🎓 10th grader
