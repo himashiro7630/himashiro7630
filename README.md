@@ -25,4 +25,3 @@
 </code></pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" width="390px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashiro7630&layout=compact&count_private=true&show_icons=true&theme=tokyonight" width="390px">
