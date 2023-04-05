@@ -21,5 +21,5 @@
 <br>
 🛠️ VScode</code></pre>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
