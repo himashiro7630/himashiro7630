@@ -14,12 +14,12 @@
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
-<img src="1AD23A2F-F8E0-41DC-B42A-3012B89D31FB.gif" width="400px" align="right">
+<img src="1AD23A2F-F8E0-41DC-B42A-3012B89D31FB.gif" width="49%" align="right">
 <pre><code>🗾 Japan/Shizuoka
 <br>
 🧑‍🎓 10th grader
 <br>
 🛠️ VScode</code></pre>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himashiro7630&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
