@@ -1,4 +1,4 @@
-<h1>🌍 HELLO WORLD.</h1>
+<h1><b>Hi , I'm Himashiro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="discordapp.com/users/1028198473817935892">
     <img src="https://img.shields.io/badge/Himashiro%237777-%23555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865f2">
