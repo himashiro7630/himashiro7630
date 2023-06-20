@@ -4,8 +4,12 @@
     <img src="https://img.shields.io/badge/Himashiro-%23555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865f2">
 </a>
 <a href="https://twitter.com/Himashiro7630">
-    <img src="https://img.shields.io/badge/Himashiro-%23555555?style=for-the-badge&logo=twitter&logoColor=white&labelColor=%231da1f2">
+    <img src="https://img.shields.io/badge/Himashiro7630-%23555555?style=for-the-badge&logo=twitter&logoColor=white&labelColor=%231da1f2">
 </a>
+<a href="https://qiita.com/Himashiro">
+    <img src="https://img.shields.io/badge/Himashiro-%23555555?style=for-the-badge&logo=Qiita&logoColor=white&labelColor=00CA00">
+</a>
+
 
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
